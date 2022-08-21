@@ -1,0 +1,93 @@
+THREAD 5 :credited (SUCCESS)100 from checking account
+Debited 87 from checkingaccount
+THREAD 5 :(REJECTED) debiting 80 from checking account
+THREAD 2 :(REJECTED) debiting 85 from checking account
+TRHEAD 2 :credited (SUCCESS)80 from checking account
+THREAD 2 :debited 73 from checking account
+Debited 67 from checkingaccount
+THREAD 5 :credited (SUCCESS)95 from checking account
+THREAD 5 :(REJECTED) debiting 95 from checking account
+Debited 63 from checkingaccount
+THREAD 3 :(REJECTED) debiting 62 from checking account
+THREAD 5 :(REJECTED) debiting 80 from checking account
+Debited 92 from checkingaccount
+THREAD 3 :(REJECTED) debiting 82 from checking account
+THREAD 1 :(REJECTED) debiting 57 from checking account
+THREAD 1 :credited (SUCCESS)67 from checking account
+Debited 83 from checkingaccount
+THREAD 5 :credited (SUCCESS)82 from checking account
+Debited 89 from checkingaccount
+Debited 54 from checkingaccount
+THREAD 4 :credited (SUCCESS)77 from checking account
+THREAD 2 :(REJECTED) debiting 84 from checking account
+THREAD 4 :debited 53 from checking account
+THREAD 2 :credited (SUCCESS)67 from checking account
+THREAD 4 :credited (SUCCESS)95 from checking account
+THREAD 2 :credited (SUCCESS)60 from checking account
+THREAD 2 :(REJECTED) debiting 72 from checking account
+THREAD 1 :debited 74 from checking account
+THREAD 1 :(REJECTED) debiting 65 from checking account
+THREAD 1 :credited (SUCCESS)87 from checking account
+THREAD 5 :(REJECTED) debiting 71 from checking account
+THREAD 5 :credited (SUCCESS)73 from checking account
+THREAD 5 :(REJECTED) debiting 82 from checking account
+THREAD 3 :debited (SUCCESS)93 from checking account
+TRHEAD 3 :credited (SUCCESS)93 from checking account
+THREAD 3 :credited (SUCCESS)58 from checking account
+THREAD 3 :credited (SUCCESS)51 from checking account
+Debited 99 from checkingaccount
+THREAD 5 :(REJECTED) debiting 63 from checking account
+THREAD 4 :credited (SUCCESS)66 from checking account
+THREAD 4 :(REJECTED) debiting 88 from checking account
+THREAD 4 :credited (SUCCESS)62 from checking account
+THREAD 4 :credited (SUCCESS)53 from checking account
+THREAD 4 :debited 73 from checking account
+THREAD 4 :(REJECTED) debiting 82 from checking account
+THREAD 4 :credited (SUCCESS)89 from checking account
+THREAD 5 :credited (SUCCESS)55 from checking account
+THREAD 5 :(REJECTED) debiting 98 from checking account
+THREAD 2 :debited 97 from checking account
+THREAD 2 :debited 90 from checking account
+THREAD 2 :credited (SUCCESS)98 from checking account
+THREAD 5 :credited (SUCCESS)55 from checking account
+THREAD 1 :debited (SUCCESS)55 from checking account
+THREAD 2 :debited 61 from checking account
+TRHEAD 5 :credited (SUCCESS)55 from checking account
+THREAD 2 :debited 86 from checking account
+THREAD 1 :credited (SUCCESS)74 from checking account
+THREAD 2 :(REJECTED) debiting 90 from checking account
+THREAD 1 :(REJECTED) debiting 96 from checking account
+THREAD 1 :(REJECTED) debiting 87 from checking account
+Debited 98 from checkingaccount
+Debited 86 from checkingaccount
+THREAD 4 :(REJECTED) debiting 56 from checking account
+THREAD 1 :credited (SUCCESS)83 from checking account
+THREAD 4 :credited (SUCCESS)95 from checking account
+THREAD 5 :(REJECTED) debiting 64 from checking account
+THREAD 5 :debited (SUCCESS)70 from checking account
+THREAD 5 :credited (SUCCESS)55 from checking account
+THREAD 1 :credited (SUCCESS)81 from checking account
+TRHEAD 1 :credited (SUCCESS)70 from checking account
+THREAD 5 :debited 90 from checking account
+THREAD 5 :credited (SUCCESS)67 from checking account
+THREAD 3 :(REJECTED) debiting 87 from checking account
+THREAD 5 :credited (SUCCESS)50 from checking account
+TRHEAD 5 :credited (SUCCESS)87 from checking account
+THREAD 3 :debited 90 from checking account
+THREAD 3 :credited (SUCCESS)80 from checking account
+THREAD 3 :debited (SUCCESS)85 from checking account
+TRHEAD 3 :credited (SUCCESS)85 from checking account
+THREAD 3 :credited (SUCCESS)68 from checking account
+THREAD 3 :credited (SUCCESS)95 from checking account
+Debited 95 from checkingaccount
+Debited 97 from checkingaccount
+THREAD 5 :debited (SUCCESS)50 from checking account
+THREAD 5 :credited (SUCCESS)63 from checking account
+THREAD 5 :credited (SUCCESS)53 from checking account
+THREAD 2 :credited (SUCCESS)82 from checking account
+THREAD 1 :debited 77 from checking account
+TRHEAD 5 :credited (SUCCESS)50 from checking account
+THREAD 3 :credited (SUCCESS)97 from checking account
+THREAD 4 :credited (SUCCESS)77 from checking account
+THREAD 4 :(REJECTED) debiting 83 from checking account
+TRHEAD 4 :credited (SUCCESS)83 from checking account
